@@ -3,7 +3,6 @@ import mediapipe as mp
 from cvzone.HandTrackingModule import HandDetector
 import board
 import neopixel
-import numpy as p
 from time import sleep
 
 np = neopixel.NeoPixel(board.D18, 60)
