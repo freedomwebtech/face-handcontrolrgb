@@ -15,7 +15,7 @@ Known_width = 9.0
 
 cap=cv2.VideoCapture(0)
 a=[]
-dist=[]
+
 def color1():
      for i in range (60):
          color=[0,255,0]
